@@ -19,7 +19,7 @@ let anteriorDelTriple = function (number) {
 
 console.log(anteriorDelTriple(3));
 
-console.log(Math.random());;
+console.log(Math.random());
 
 function saludar() {
     console.log("hola, tiempo sin verte");
