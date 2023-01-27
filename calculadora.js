@@ -31,7 +31,7 @@ console.log(dividir(0,21));
 //Función cuadrado de un número
 
 let cuadradoDeUnNumero = function (numeroA) {
-    return multiplicar(Math.pow(numeroA,2))
+    return Math.pow(numeroA,2)
 }
 console.log(cuadradoDeUnNumero(12));
 
